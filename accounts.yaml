@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to accounts microservice"
   contactDetails:
     name: "Willy, Chilly"
-    email: "chilly.w@accounts.com"
+    email: "{cipher}5abba1ddb7023e3e0fc02e05a7a1a89f2b02ab887981c50d232799d9834eaeede1a4d1c0d7c3c52850fd4f5658d0d29b"
   onCallSupport:
     - (555) 123-456
     - (555) 456-123
