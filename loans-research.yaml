@@ -1,10 +1,10 @@
 build:
   version: 5.0
 loans:
-  message: "Welcome to loans RESEARCH"
+  message: "Welcome to RESEARCH+DEVELOPMENT loans"
   contactDetails:
     name: "Willy, Chilly"
-    email: "chilly.w@loans.r+d.com"
+    email: "chilly.w@r+d.loans.com"
   onCallSupport:
     - (555) 123-456
     - (555) 456-123
