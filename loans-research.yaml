@@ -1,0 +1,10 @@
+build:
+  version: 5.0
+loans:
+  message: "Welcome to loans RESEARCH"
+  contactDetails:
+    name: "Willy, Chilly"
+    email: "chilly.w@loans.r+d.com"
+  onCallSupport:
+    - (555) 123-456
+    - (555) 456-123

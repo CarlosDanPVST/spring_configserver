@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to QA accounts microservice"
+  contactDetails:
+    name: "Willy, Chilly"
+    email: "chilly.w@mail.com"
+  onCallSupport:
+    - (555) 123-456
+    - (555) 456-123

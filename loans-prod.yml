@@ -1,0 +1,10 @@
+build:
+  version: 4.0
+loans:
+  message: "Welcome to PROD loans microservice"
+  contactDetails:
+    name: "Willy, Chilly"
+    email: "chilly.w@loans.com"
+  onCallSupport:
+    - (555) 123-456
+    - (555) 456-123

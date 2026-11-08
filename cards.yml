@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to cards microservice"
+  contactDetails:
+    name: "Willy, Chilly"
+    email: "chilly.w@cards.com"
+  onCallSupport:
+    - (555) 123-456
+    - (555) 456-123
