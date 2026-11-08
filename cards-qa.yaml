@@ -3,8 +3,8 @@ build:
 cards:
   message: "Welcome to QA cards microservice"
   contactDetails:
-    name: "Willy, Chilly"
-    email: "chilly.w@cards.com"
+    name: "Pecker, Wood"
+    email: "wood.p@cards.com"
   onCallSupport:
     - (555) 123-456
     - (555) 456-123
