@@ -1,7 +1,7 @@
 build:
   version: 2.0
 cards:
-  message: "Welcome to PROD cards microservice"
+  message: "Welcome to PROD with RabbitMQ cards microservice"
   contactDetails:
     name: "Willy, Chilly"
     email: "chilly.w@cards.com"
