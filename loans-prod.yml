@@ -1,7 +1,7 @@
 build:
   version: 4.0
 loans:
-  message: "Welcome to PROD with RabbitMQ loans microservice"
+  message: "Welcome to REDO-PROD with RabbitMQ loans microservice"
   contactDetails:
     name: "Willy, Chilly"
     email: "chilly.w@loans.com"
