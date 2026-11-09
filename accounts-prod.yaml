@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to PROD accounts microservice"
+  message: "Welcome to PROD with RabbitMQ accounts microservice"
   contactDetails:
     name: "Willy, Chilly"
     email: "chilly.w@mail.com"
