@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to accounts microservice"
+  message: "Welcome to DEFAULT accounts microservice"
   contactDetails:
     name: "Willy, Chilly Jr."
     email: "{cipher}5abba1ddb7023e3e0fc02e05a7a1a89f2b02ab887981c50d232799d9834eaeede1a4d1c0d7c3c52850fd4f5658d0d29b"

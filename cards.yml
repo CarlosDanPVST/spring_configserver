@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: "Welcome to cards microservice"
+  message: "Welcome to DEFAULT cards microservice"
   contactDetails:
     name: "Willy, Chilly"
     email: "chilly.w@cards.com"
